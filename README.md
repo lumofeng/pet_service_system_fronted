@@ -1,8 +1,8 @@
 # 宠物服务系统（前端）
 
-前端代码仓库：https://github.com/lubenchu/pet_hospital_fronted.git
+前端代码仓库：https://github.com/lubenchu/pet_service_system_fronted
 
-后端代码仓库：https://github.com/lubenchu/pet_hospital_backed.git
+后端代码仓库：https://github.com/lubenchu/pet_service_system_backed
 
 ## 项目背景
 
